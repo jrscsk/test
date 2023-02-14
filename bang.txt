@@ -1,2 +1,0 @@
-bang 1
-bang33
